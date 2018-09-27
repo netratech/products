@@ -1917,16 +1917,6 @@ body {
     padding-top: 3rem;
   }
 }
-.cid-r4KTGFoBTV .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-r4KTGFoBTV .media-container-row .mbr-figure {
-    padding-left: 0;
-    padding-right: 4rem;
-  }
-}
 .cid-r4KTGFoBTV .mbr-section-title {
   text-align: left;
   color: #ff9933;
